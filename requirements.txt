@@ -4,3 +4,5 @@ matplotlib
 pandas
 jupyter
 seaborn
+pyyaml
+h5py
