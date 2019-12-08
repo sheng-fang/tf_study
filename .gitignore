@@ -8,3 +8,4 @@ requirements.txt
 /Load_and_preprocess_data/flowers.tfcache.data-00000-of-00001
 /Load_and_preprocess_data/flowers.tfcache.index
 /Load_and_preprocess_data/.ipynb_checkpoints/
+/Estimator/.ipynb_checkpoints/
