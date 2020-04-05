@@ -8,7 +8,7 @@
     2-5. Autograph and tf.Module
     2-6. Automatic differentiation
 ### 3. Middle level API
-    3-1. tf.keras.Dataset
+    3-1. tf.data.Dataset
     3-2. tf.feature column
     3-3. tf.keras.activation
     3-4. tf.keras.layers
